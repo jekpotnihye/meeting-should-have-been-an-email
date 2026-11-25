@@ -5,8 +5,8 @@ from pathlib import Path
 
 
 ENTRY = (
-    "Nine of us met to discuss an email "
-    "nobody had opened."
+    "Nine of us met to discuss the email "
+    "nobody had read."
 )
 
 
